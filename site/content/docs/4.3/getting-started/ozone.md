@@ -2,6 +2,7 @@
 layout: docs
 title: Ozone
 description: This is an Ozone test file
+group: getting-started
 toc: true
 ---
 
