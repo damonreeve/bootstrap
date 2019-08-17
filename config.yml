@@ -1,6 +1,6 @@
 languageCode:           "en"
 title:                  "Bootstrap"
-baseURL:                "https://getbootstrap.com"
+baseURL:                "damonreeve/github.io/ozone-bootstrap"
 enableInlineShortcodes: true
 
 pygmentsUseClasses:     true
