@@ -6,7 +6,7 @@ group: getting-started
 toc: true
 ---
 
-## Compiled CSS and JS
+## Compiled CSS and JS - Ozone
 
 Download ready-to-use compiled code for **Bootstrap v{{< param current_version >}}** to easily drop into your project, which includes:
 
